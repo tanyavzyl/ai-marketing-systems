@@ -54,3 +54,7 @@ The goal is to reduce manual work, improve consistency, and increase speed to ex
 ## Current Focus
 
 Exploring how AI can be used to bridge product, marketing, and growth by creating systems that scale without increasing operational complexity.
+
+## Notes
+
+Built as part of my exploration into AI-driven product marketing and developer-focused GTM systems.
